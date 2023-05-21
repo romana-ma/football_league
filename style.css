@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.center {
+    margin: 2% auto;
+}
+
+.row-horizontal {
+    text-align: center;
+    width: 10%;
+}
+
+.header {
+    background-color: #1C7F54;
+    width: 100%;
+    height: 50px;
+}
+
+
